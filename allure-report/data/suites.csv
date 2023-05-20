@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat May 20 00:14:10 EET 2023","Sat May 20 00:14:17 EET 2023","6942","All Tests","Google Search Tests","tests.TestGoogleSearch","tests.TestGoogleSearch","Test_case_1","Test_case_1",""
+"passed","Sat May 20 00:14:30 EET 2023","Sat May 20 00:14:33 EET 2023","2681","All Tests","HerokuApp Tests","tests.HerokuAppTests","tests.HerokuAppTests","verifyFileUpload","verifyFileUpload",""
+"failed","Sat May 20 00:14:18 EET 2023","Sat May 20 00:14:25 EET 2023","6871","All Tests","Google Search Tests","tests.TestGoogleSearch","tests.TestGoogleSearch","Test_case_1","Test_case_1",""
+"passed","Sat May 20 00:14:27 EET 2023","Sat May 20 00:14:29 EET 2023","2089","All Tests","HerokuApp Tests","tests.HerokuAppTests","tests.HerokuAppTests","verifyBothCheckboxesAreChecked","verifyBothCheckboxesAreChecked",""

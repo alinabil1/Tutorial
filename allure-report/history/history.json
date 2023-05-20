@@ -1,0 +1,80 @@
+{
+  "c9c4f47e26c547775be5d40e09a09861" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57b3220e3f99d26d",
+      "status" : "failed",
+      "statusDetails" : "expected [https://www.tutorialspoint.com/selenium/index.htm] but found [https://selenium-python.readthedocs.io/]",
+      "time" : {
+        "start" : 1684534458951,
+        "stop" : 1684534465822,
+        "duration" : 6871
+      }
+    } ]
+  },
+  "7eaa2b4b6b92a36c1d6fc228c4ef1875" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f916e6dd1f93d9c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684534467250,
+        "stop" : 1684534469339,
+        "duration" : 2089
+      }
+    } ]
+  },
+  "6878518cc2130bc59d6b82dde60bcd40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fc3b29c807518fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1684534470433,
+        "stop" : 1684534473114,
+        "duration" : 2681
+      }
+    } ]
+  },
+  "676adbb6a43a778e7aef6b588d059b7f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2ea2d133d7d5c75",
+      "status" : "failed",
+      "statusDetails" : "expected [https://www.javatpoint.com/selenium-tutorial] but found [https://www.simplilearn.com/tutorials/selenium-tutorial]",
+      "time" : {
+        "start" : 1684534450504,
+        "stop" : 1684534457446,
+        "duration" : 6942
+      }
+    } ]
+  }
+}

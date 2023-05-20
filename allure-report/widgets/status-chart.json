@@ -1,0 +1,41 @@
+[ {
+  "uid" : "e2ea2d133d7d5c75",
+  "name" : "Test_case_1",
+  "time" : {
+    "start" : 1684534450504,
+    "stop" : 1684534457446,
+    "duration" : 6942
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc3b29c807518fd",
+  "name" : "verifyFileUpload",
+  "time" : {
+    "start" : 1684534470433,
+    "stop" : 1684534473114,
+    "duration" : 2681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57b3220e3f99d26d",
+  "name" : "Test_case_1",
+  "time" : {
+    "start" : 1684534458951,
+    "stop" : 1684534465822,
+    "duration" : 6871
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f916e6dd1f93d9c5",
+  "name" : "verifyBothCheckboxesAreChecked",
+  "time" : {
+    "start" : 1684534467250,
+    "stop" : 1684534469339,
+    "duration" : 2089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

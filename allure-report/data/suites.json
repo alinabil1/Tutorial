@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "All Tests",
+    "children" : [ {
+      "name" : "Google Search Tests",
+      "children" : [ {
+        "name" : "tests.TestGoogleSearch",
+        "children" : [ {
+          "name" : "Test_case_1",
+          "uid" : "e2ea2d133d7d5c75",
+          "parentUid" : "5b48ab953afada3adc2a7ed994eb5c3b",
+          "status" : "failed",
+          "time" : {
+            "start" : 1684534450504,
+            "stop" : 1684534457446,
+            "duration" : 6942
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "2", "2", "https://www.javatpoint.com/selenium-tutorial" ]
+        }, {
+          "name" : "Test_case_1",
+          "uid" : "57b3220e3f99d26d",
+          "parentUid" : "5b48ab953afada3adc2a7ed994eb5c3b",
+          "status" : "failed",
+          "time" : {
+            "start" : 1684534458951,
+            "stop" : 1684534465822,
+            "duration" : 6871
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "3", "2", "https://www.tutorialspoint.com/selenium/index.htm" ]
+        } ],
+        "uid" : "5b48ab953afada3adc2a7ed994eb5c3b"
+      } ],
+      "uid" : "2f0fd06b6b074ae220044f053eb14037"
+    }, {
+      "name" : "HerokuApp Tests",
+      "children" : [ {
+        "name" : "tests.HerokuappTests",
+        "children" : [ {
+          "name" : "verifyBothCheckboxesAreChecked",
+          "uid" : "f916e6dd1f93d9c5",
+          "parentUid" : "5084552763d0590dd53bd5d8ce1a78a4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684534467250,
+            "stop" : 1684534469339,
+            "duration" : 2089
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "verifyFileUpload",
+          "uid" : "8fc3b29c807518fd",
+          "parentUid" : "5084552763d0590dd53bd5d8ce1a78a4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1684534470433,
+            "stop" : 1684534473114,
+            "duration" : 2681
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5084552763d0590dd53bd5d8ce1a78a4"
+      } ],
+      "uid" : "d5a40e5bee04061737d2531d6986bd1a"
+    } ],
+    "uid" : "8ea1fdc2119fe45b4a705d4e26175fe9"
+  } ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [https://www.javatpoint.com/selenium-tutorial] but found [https://www.simplilearn.com/tutorials/selenium-tutorial]",
+      "children" : [ {
+        "name" : "Test_case_1",
+        "uid" : "e2ea2d133d7d5c75",
+        "parentUid" : "da8cd18d0cce890ab07cc1925ac309e5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684534450504,
+          "stop" : 1684534457446,
+          "duration" : 6942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "2", "https://www.javatpoint.com/selenium-tutorial" ]
+      } ],
+      "uid" : "da8cd18d0cce890ab07cc1925ac309e5"
+    }, {
+      "name" : "expected [https://www.tutorialspoint.com/selenium/index.htm] but found [https://selenium-python.readthedocs.io/]",
+      "children" : [ {
+        "name" : "Test_case_1",
+        "uid" : "57b3220e3f99d26d",
+        "parentUid" : "7262d8b3bc36a88ba6cabc066734cba2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684534458951,
+          "stop" : 1684534465822,
+          "duration" : 6871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "2", "https://www.tutorialspoint.com/selenium/index.htm" ]
+      } ],
+      "uid" : "7262d8b3bc36a88ba6cabc066734cba2"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

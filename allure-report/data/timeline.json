@@ -1,0 +1,81 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-QBN05O4",
+    "children" : [ {
+      "name" : "24512@DESKTOP-QBN05O4.main(1)",
+      "children" : [ {
+        "name" : "verifyFileUpload",
+        "uid" : "8fc3b29c807518fd",
+        "parentUid" : "729b68b2db451653c2000f59cd706bfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684534470433,
+          "stop" : 1684534473114,
+          "duration" : 2681
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_case_1",
+        "uid" : "57b3220e3f99d26d",
+        "parentUid" : "729b68b2db451653c2000f59cd706bfc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684534458951,
+          "stop" : 1684534465822,
+          "duration" : 6871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "3", "2", "https://www.tutorialspoint.com/selenium/index.htm" ]
+      }, {
+        "name" : "Test_case_1",
+        "uid" : "e2ea2d133d7d5c75",
+        "parentUid" : "729b68b2db451653c2000f59cd706bfc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1684534450504,
+          "stop" : 1684534457446,
+          "duration" : 6942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "2", "2", "https://www.javatpoint.com/selenium-tutorial" ]
+      }, {
+        "name" : "verifyBothCheckboxesAreChecked",
+        "uid" : "f916e6dd1f93d9c5",
+        "parentUid" : "729b68b2db451653c2000f59cd706bfc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1684534467250,
+          "stop" : 1684534469339,
+          "duration" : 2089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "729b68b2db451653c2000f59cd706bfc"
+    } ],
+    "uid" : "ac10f6ddb56190299e2ee8c7c2a14a74"
+  } ]
+}

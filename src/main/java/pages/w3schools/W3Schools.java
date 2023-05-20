@@ -1,6 +1,7 @@
 package pages.w3schools;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
 
@@ -15,7 +16,10 @@ public class W3Schools {
 
 
     public String getCountryNameByCompany(String company) {
-        scrollIntoView(By.xpath("//a[@href='tryit.asp?filename=tryhtml_table_intro']"), driver);
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        System.out.println(0);
+        js.executeScript("window.scrollBy(0,300)");
+
         return getText(By.xpath("(//td[contains(text(),'" + company + "')]/following-sibling::td)[2]"), driver);
     }
 
